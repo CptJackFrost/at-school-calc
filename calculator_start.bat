@@ -1,0 +1,1 @@
+java -jar AT-school-calculator.jar

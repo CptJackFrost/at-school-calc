@@ -6,6 +6,12 @@ public class Calculator {
     static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
+        while (true){
+            exec();
+        }
+    }
+
+    public static void exec(){
         int num1 = getInt();
         int num2 = getInt();
         char operation = getOperation();

@@ -27,6 +27,7 @@ buildNumber.properties
 
 # Package Files #
 *.jar
+!AT-school-calculator.jar
 *.war
 *.nar
 *.ear
